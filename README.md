@@ -1,4 +1,4 @@
-# caps-lock-api
+# caps-lock-api-server
 
 ### Installation steps:
 
